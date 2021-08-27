@@ -5,7 +5,7 @@
    [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
    
    ## :wave: About Me 
-<a href="https://twitter.com/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<a href="https://twitter.com/HetNileshkumar" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/het-patel-913877172/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 <!-- 👩‍🎓 Hey! I'm S, a 22 year old software engineer at [**Intuit**](https://github.com/intuit) working out of New Delhi, India.  -->
 
 
