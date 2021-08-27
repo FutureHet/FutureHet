@@ -34,7 +34,7 @@
 
 <br/>
 
-  [![Shreya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=FutureHet&theme=xcode)](https://git.io/FutureHet)
+  [![Het's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=FutureHet&theme=xcode)](https://git.io/FutureHet)
    <br />
    <br />
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FutureHet&theme=prussian&hide_border=true)](https://git.io/streak-stats)
