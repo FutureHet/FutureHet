@@ -34,9 +34,17 @@
 
 <br/>
 
-  [![Het's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=FutureHet&theme=xcode)](https://git.io/FutureHet)
+  [![Het's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=FutureHet&theme=github)](https://git.io/FutureHet)
    <br />
    <br />
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FutureHet&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
    <br />
+   
+   
+
+## 🏆 My Status
+
+![Het's GitHub stats](https://github-readme-stats.vercel.app/api?username=FutureHet&show_icons=true&theme=prussian)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FutureHet&layout=compact&theme=prussian)
