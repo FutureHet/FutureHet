@@ -6,9 +6,16 @@
    
    ## :wave: About Me 
 <a href="https://twitter.com/HetNileshkumar" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/het-patel-913877172/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-<!-- 👩‍🎓 Hey! I'm S, a 22 year old software engineer at [**Intuit**](https://github.com/intuit) working out of New Delhi, India.  -->
 
+![](https://visitor-badge.glitch.me/badge?page_id=FutureHet)
 
+<br />
+
+Hiii...., i'm Het Patel, a passionate final-year Computer Science and Engineering student from Gujarat, India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I learned a lot from the open-source community and love to collaborate with amazing mindset, that's why I am an open-source enthusiast.
+  
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/source.gif?cid=ecf05e477b0ns3wmygqktir21k4ino3z6ertc6kn8sp9gkc5&rid=source.gif&ct=g?raw=true" width="500" height="320" />
+     
+- 💬 ask me about anything, i am happy to help;
 
 <br> 
 
