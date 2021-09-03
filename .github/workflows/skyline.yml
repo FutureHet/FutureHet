@@ -12,14 +12,14 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-#       # Metrics.svg
-#       - uses: lowlighter/metrics@latest
-#         name: CommitClanedar
-#         with:
-#           # ... other options
-#           plugin_isocalendar: yes
-#           plugin_isocalendar_duration: full-year
-#           token: ${{ secrets.METRICS_TOKEN }}
+      # Metrics.svg
+      - uses: lowlighter/metrics@latest
+        name: CommitClanedar
+        with:
+          # ... other options
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          token: ${{ secrets.METRICS_TOKEN }}
           
       - uses: lowlighter/metrics@latest
         name: Skyline
