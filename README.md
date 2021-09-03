@@ -52,7 +52,6 @@ Hiii...., i'm Het Patel, a passionate final-year Computer Science and Engineerin
 
 ## 🏆 My Status
 
-![Het's GitHub stats](https://github-readme-stats.vercel.app/api?username=FutureHet&show_icons=true&theme=prussian) &nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FutureHet&layout=compact&theme=prussian)
+![Het's GitHub stats](https://github-readme-stats.vercel.app/api?username=FutureHet&show_icons=true&theme=prussian) &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FutureHet&layout=compact&theme=prussian)
 
 ![Skyline](github-metrics.svg)
